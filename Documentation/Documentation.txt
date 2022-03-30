@@ -1,8 +1,3 @@
-How to add Gradle Depedency Via Externally
-
-FYI :-
--->    CLICK 
-
 Check Gradle Version 
 link :- https://developer.android.com/studio/releases/gradle-plugin#updating-gradle
 
