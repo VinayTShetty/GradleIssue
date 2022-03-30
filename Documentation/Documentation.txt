@@ -1,0 +1,23 @@
+How to add Gradle Depedency Via Externally
+
+FYI :-
+-->    CLICK 
+
+
+Download Gradle Procedure
+-------------------------
+https://gradle.org/install/
+-->Install manually
+https://gradle.org/releases/
+-->Complete Download
+*************************************************************************************************************************
+
+How to Setup Gradle Independently in Android Studio.
+----------------------------------------------------
+
+File
+Setting
+Build,Execution,Deployment
+Build Tools
+Graddle
+use Gradle From (Specified Location)
